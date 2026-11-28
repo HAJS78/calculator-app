@@ -5,6 +5,7 @@ This is a simple C++ calculator project.
 ## Features
 
 - Add two numbers.
+- subtract two numbers
 
 
 
